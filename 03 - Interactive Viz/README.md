@@ -1,3 +1,7 @@
+# Peer Reviews
+
+Please download the [html version](https://raw.githubusercontent.com/onanypoint/ADA-Homework/master/03%20-%20Interactive%20Viz/Interactive%2BViz.html) and open it in your favorite browser. You can also clone this repo and run the code.
+
 # 03 - Interactive Viz
 
 ## Deadline
